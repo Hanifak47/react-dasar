@@ -1,0 +1,1 @@
+import{j as e,c as r,r as t}from"./client-DaeBgBIG.js";function o(){return e.jsxs(e.Fragment,{children:[e.jsx("h1",{children:"Hello World"}),e.jsx("p",{children:"Selamat Belajar React JS"})]})}r.createRoot(document.getElementById("root")).render(e.jsx(t.StrictMode,{children:e.jsx(o,{})}));
